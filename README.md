@@ -1,6 +1,6 @@
 # Valorant Plus
 
-Valorant Plus is a tool that offers advanced cheating features in the game Valorant. The cheat is undetected.
+Valorant Plus is an open source project/tool that offers advanced cheating features in the game Valorant. The cheat is undetected.
 
 ## Installation
 
